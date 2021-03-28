@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![](img/newlogo.png)
+![](newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
 
@@ -13,6 +13,6 @@
 
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](TopLearnerCertificate.png)
 
 
